@@ -1,0 +1,6 @@
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\bin\Debug\LocaMais.exe.config
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\bin\Debug\LocaMais.exe
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\bin\Debug\LocaMais.pdb
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\obj\Debug\LocaMais.csprojResolveAssemblyReference.cache
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\obj\Debug\LocaMais.exe
+C:\Users\Thaís Damásio\Desktop\LocaMais\LocaMais\obj\Debug\LocaMais.pdb
